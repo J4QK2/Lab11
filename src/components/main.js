@@ -6,6 +6,7 @@ class Main extends Component{
         <main>
            <h1>Hello</h1>
            <p>My name is Kulik Turar and i am a web-developer</p>
+           
         </main>
     )
     }
